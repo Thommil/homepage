@@ -1,6 +1,19 @@
-FROM gohugoio/hugo:latest
+FROM alpine:latest
 
-ENTRYPOINT [ "/hugo" ]
-CMD [ "serve" ]
+ENV HUGO_VERSION=0.63.0
 
+RUN apk add --no-cache --update wget \
+ && wget --no-check-certificate https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz \
+ && tar zxvf hugo_${HUGO_VERSION}_Linux-64bit.tar.gz \
+ && mv hugo /usr/local/bin/hugo \
+ && rm -r hugo_${HUGO_VERSION}_Linux-64bit.tar.gz\
+ && chmod +x /usr/local/bin/hugo
 
+RUN adduser hugo -H -D -s /bin/false
+
+WORKDIR /data
+COPY . /data
+
+EXPOSE 1313
+
+ENTRYPOINT ["/usr/local/bin/hugo", "server"]
