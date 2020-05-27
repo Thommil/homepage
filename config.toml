@@ -1,0 +1,25 @@
+baseURL = "https://thommil.com/"
+languageCode = "en-us"
+title = "Thommil"
+theme = "hugo-theme-nix"
+
+[menu]
+  [[menu.header]]
+    name = "post"
+    weight = 0
+    url = "post"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "about"
+
+[params]
+  GithubID = "thommil"
+  TwitterID = "thommil"
+  LinkedInID = "thomas-millet-77690682"
+  Name = "Thommil"
+  HeaderUsername = "thommil"
+  HeaderHostname = "thommil.com"
+  About = "Hi I'm Thommil. Let's talk about unfinished projects, weird games and robots making selfies..."
+  ProfilePicture = "/profile.png"
+  Favicon = "/favicon.ico"
