@@ -16,4 +16,4 @@ WORKDIR /data
 
 EXPOSE 1313
 
-ENTRYPOINT ["/usr/local/bin/hugo" ,"server", "-w", "--bind", "0.0.0.0"]
+ENTRYPOINT ["/usr/local/bin/hugo" ,"server", "-w", "--bind=0.0.0.0", "--baseUrl=https://thommil.com", "--appendPort=false"]
