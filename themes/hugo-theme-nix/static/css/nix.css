@@ -64,6 +64,16 @@ h1,h2,h3,h4,h5,h6 {
 	font-size: initial;
 }
 
+@media screen and (max-width: 980px) { 
+	.user-description {
+		border-style: none;
+		margin-top: 20px;
+		margin-bottom: 1em;
+		padding: 15px;
+		font-size: initial;
+	}
+}
+
 .user-profile {
 	padding: 0;
 }
@@ -73,6 +83,12 @@ h1,h2,h3,h4,h5,h6 {
 	border-width: 5px;
 	border-color: #292929;
 	margin-top: 20px;
+}
+
+@media screen and (max-width: 980px) { 
+	.user-picture {
+		max-width:200px;
+	}
 }
 
 i {
