@@ -11,9 +11,9 @@ RUN apk add --no-cache --update wget \
 
 RUN adduser hugo -H -D -s /bin/false
 
+VOLUME /data
 WORKDIR /data
-COPY . /data
 
 EXPOSE 1313
 
-ENTRYPOINT ["/usr/local/bin/hugo", "server"]
+ENTRYPOINT ["/usr/local/bin/hugo" ,"server", "-w", "--bind", "0.0.0.0"]
