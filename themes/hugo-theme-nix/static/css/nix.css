@@ -181,3 +181,18 @@ td {
 	margin: 0.5em;
 	padding: 0.5em;
 }
+
+.blink {
+	animation: blinker 1s linear infinite;
+	color:#F00;
+	font-size:larger;
+	margin: 10px auto;
+	text-align: center;
+	font-weight: bold;
+}
+
+@keyframes blinker {
+	50% {
+		opacity: 0;
+	}
+}
