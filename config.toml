@@ -20,6 +20,25 @@ theme = "hugo-theme-nix"
   Name = "Thommil"
   HeaderUsername = "thommil"
   HeaderHostname = "thommil.com"
-  About = "Hi I'm Thommil. Let's talk about unfinished projects, weird games and robots making selfies..."
+  About = "Let's talk about unfinished projects, weird games and robots making selfies..."
   ProfilePicture = "/profile.png"
   Favicon = "/favicon.ico"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      attribute = true
+      autoHeadingID = true
+      autoHeadingIDType = "github"
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = false
