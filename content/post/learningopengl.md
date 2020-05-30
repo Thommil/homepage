@@ -1,5 +1,5 @@
 +++
-title = "Learning OpenGL from scratch"
+title = "Learning the joys of OpenGL"
 description = ""
 tags = [
     "opengl",
