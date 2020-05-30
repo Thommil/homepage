@@ -183,10 +183,15 @@ td {
 }
 
 .blink {
+	border: solid #F00;
+	margin: 10px;
+}
+
+.blink div{
 	animation: blinker 1s linear infinite;
 	color:#F00;
-	font-size:larger;
-	margin: 20px auto;
+	font-size:26px;
+	margin: 10px auto;
 	text-align: center;
 	font-weight: bold;
 }
