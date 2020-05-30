@@ -8,7 +8,7 @@ menu = "main"
 I'm a developer, I made this website for 2 reasons!
 
 ## The first reason: "BEING SERIOUS"
-I've created projects hosted on my cloud and I was using subdomains to hosts them. Sometimes, I try to share my job on social networks, with my peers or simply some lost souls come to my homepage.
+I've created projects hosted on my cloud and I was using subdomains to hosts them. Sometimes, I shared my job on social networks, with my peers or simply some lost souls came to my homepage:
 
 <div class="big-img">
     <img src="/images/meme.jpg" alt="Crappy meme"/>
@@ -19,9 +19,12 @@ I was very proud of this meme but feedbacks were not as good as expected.
 
 ## The second reason: "STOP LOOSING MY WORK"
 
-...
+<div class="big-img">
+    <img src="/images/facebook.jpg" alt="TL;DR"/>
+    <figcaption>TL;DR</figcaption>
+</div>
 
 Thanks for reading!
 
 ### Bonus content
-This website was created with [Hugo](https://gohugo.io/), an excellent site generator which I strongly recommend if you don't want to waste your time or publish crappy meme.
+This website was created with [Hugo](https://gohugo.io/), an excellent site generator which I strongly recommend if you don't want to waste your time or publish crappy memes.
