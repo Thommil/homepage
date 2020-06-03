@@ -16,7 +16,7 @@ menu = "main"
 +++
 
 ## TL;DR
-My journey learning OpenGL from scratch. From OpenGL 1 to a first implementation of a 3D engine in OpenGL ES2. A stop in the wondeful world of matrices and vectors. Some thoughts about games programming and why you should start from the beginning before writing your next FPS.
+My journey learning OpenGL from scratch. From OpenGL 1 to a first implementation of a 3D engine in OpenGL ES2. A stop in the wonderful world of matrices and vectors. Some thoughts about games programming and why you should start from the beginning before writing your next FPS.
 
 <div class="youtube">
 {{< youtube dZfXdXALEQA >}}
