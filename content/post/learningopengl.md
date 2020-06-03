@@ -23,7 +23,7 @@ My journey learning OpenGL from scratch. From OpenGL 1 to a first implementation
 <figcaption>Android demo & tests</figcaption>
 </div>
 
-Code available at : [https://github.com/thommil/libgl](https://github.com/thommil/libgl)
+<i class="fab fa-github" aria-hidden="true"></i>[https://github.com/thommil/libgl](https://github.com/thommil/libgl)
 
 ## Full story
 ### One upon a time...
