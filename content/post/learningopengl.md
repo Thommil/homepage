@@ -27,7 +27,7 @@ My journey learning OpenGL from scratch. From OpenGL 1 to a first implementation
 
 ## Full story
 ### One upon a time...
-My first video game with amazing graphics was ***L'Aigle d'or*** running on **Oric Atmos** in **1986**. Then, ***Another World*** with its outstanding staging and animations. My first 3D experiences, ***Alone in the dark***, on console it was ***Star Fox*** with its dedicated chipset embedded in the cartdridge. At last in the early 1990's, ***Ultima Underworld*** bringing life to Dungeon Master and ***Wolfenstein 3D***, my first FPS.
+My first video game with amazing graphics was ***L'Aigle d'or*** running on **Oric Atmos** in **1986**. Then, ***Another World*** with its outstanding staging and animations. My first 3D experiences, ***Alone in the dark*** on PC and ***Star Fox*** on SNES with its dedicated chipset embedded in the cartdridge. At last in the early 1990's, ***Ultima Underworld*** bringing life to Dungeon Master and ***Wolfenstein 3D***, my first FPS.
 <div class="gallery">
     <div>
         <img src="/images/aigledor.png" alt="L'Aigle d'or - Oric -  1986"/>
