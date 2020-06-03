@@ -55,7 +55,7 @@ My first video game with amazing graphics was ***L'Aigle d'or*** running on **Or
     </div>
 </div>
 
-From there, graphics and especially 3D became the corner stone of game revolution, here is some games which were references at this time...
+From there, graphics and especially 3D became the corner stone of game revolution, here are some games which were graphical references...
 <div class="gallery">
     <div>
         <img src="/images/megarace.png" alt="Megarace - PC -  1993"/>
@@ -72,7 +72,7 @@ From there, graphics and especially 3D became the corner stone of game revolutio
 </div>
 ...but actually, from my point of view, not really fun to play. Graphics became a goal and no more a tool to enhance a good game. 
 <br/><br/>
-There was great (and many) exceptions:
+There were great (and many) exceptions:
 <div class="gallery">
     <div>
         <img src="/images/jetsetradio.png" alt="Jet Set Radio - Cel shading"/>
@@ -103,7 +103,7 @@ Now, AAA games are just breathtaking, it's almost prefect at graphical level...
         <figcaption>Final Fantasy 7 Remake - PS4 - 2020</figcaption>
     </div>
 </div>
-...games are more beautiful than ever, photo realistic rendering is near but manufacturers of video cards and consoles try to recreate a graphic revolution (VR, ray tracing...). On my side, the emotions I felt when I saw the first images of Ultima Underworld are from the past. On the other side, artificial intelligence and physics are far from what has been accomplished with graphics in games. 
+...games are more beautiful than ever, photo realistic rendering is near but manufacturers of video cards and consoles try to recreate a graphic revolution (VR, ray tracing...). The emotions I felt when I saw the first images of Ultima Underworld are from the past. On the other side, artificial intelligence and physics are far from what has been accomplished with graphics in games. 
 <br/><br/>
 Why my ennemies are stupid as lemmings, why I can't destroy everything in the last open world and what is the next graphical revolution?
 <br/><br/>
