@@ -231,3 +231,19 @@ td {
 		height:50vw
 	}
 }
+
+.gallery{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.gallery div{
+	margin:20px 0;		
+	text-align: center;
+	font-style: italic;
+	font-size: smaller;
+	text-indent: 0;
+	margin: 0.5em;
+	padding: 0.5em;
+}
