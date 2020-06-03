@@ -88,7 +88,7 @@ There were great (and many) exceptions:
     </div>
 </div>
 
-Now, AAA games are just breathtaking, it's almost prefect at graphical level...
+Now, AAA games are just breathtaking, it's almost prefect at graphical level!
 <div class="gallery">
     <div>
         <img src="/images/rdr2.png" alt="Red dead redemption 2 - PC - 2019"/>
@@ -103,9 +103,9 @@ Now, AAA games are just breathtaking, it's almost prefect at graphical level...
         <figcaption>Final Fantasy 7 Remake - PS4 - 2020</figcaption>
     </div>
 </div>
-...games are more beautiful than ever, photo realistic rendering is near but manufacturers of video cards and consoles try to recreate a graphic revolution (VR, ray tracing...). The emotions I felt when I saw the first images of Ultima Underworld are from the past. On the other side, artificial intelligence and physics are far from what has been accomplished with graphics in games. 
+Games are more beautiful than ever, photo realistic rendering is near but manufacturers of video cards and consoles try to recreate a graphic revolution (VR, ray tracing...). The emotions I felt when I saw the first images of Ultima Underworld are from the past. On the other side, artificial intelligence and physics are far from what has been accomplished with graphics in games. 
 <br/><br/>
-Why my ennemies are stupid as lemmings, why I can't destroy everything in the last open world and what is the next graphical revolution?
+Why my ennemies are still lemmings, why I can't destroy everything in the last open world and what is the next graphical revolution?
 <br/><br/>
 The only way to know, to understand and to find new ideas is to start from the beginning and look what happened behind the scene as a developer and not only as a gamer.
 
