@@ -27,7 +27,9 @@ My journey learning OpenGL from scratch. From OpenGL 1 to a first implementation
 
 ## Full story
 ### One upon a time...
-My first video game with amazing graphics was ***L'Aigle d'or*** running on **Oric Atmos** in **1986**. Then, ***Another World*** with its outstanding staging and animations. My first 3D experiences, ***Alone in the dark*** on PC and ***Star Fox*** on SNES with its dedicated chipset embedded in the cartdridge. At last in the early 1990's, ***Ultima Underworld*** bringing life to Dungeon Master and ***Wolfenstein 3D***, my first FPS.
+Games are all about emotions. There are many ways to trigger emotions in games: gameplay, music, story and of course graphics.
+
+In my souvenirs, there are images of games associated with true emotions. My first game on Oric Atmos, the animations of Another World, my first 3D games, Wolfenstein 3D, the ancestor of all FPS and on top of that, the first time I saw Ultima Underworld!
 <div class="gallery">
     <div>
         <img src="/images/aigledor.png" alt="L'Aigle d'or - Oric -  1986"/>
@@ -40,22 +42,26 @@ My first video game with amazing graphics was ***L'Aigle d'or*** running on **Or
     <div>
         <img src="/images/aloneinthedark.png" alt="Alone in the dark - PC - 1992"/>
         <figcaption>Alone in the dark - PC - 1992</figcaption>
-    </div>
+    </div>    
     <div>
-        <img src="/images/starfox.png" alt="Star Fox - SNES - 1993"/>
-        <figcaption>Star Fox - SNES - 1993</figcaption>
+        <img src="/images/wolfenstein3D.png" alt="Wolfenstein 3D - PC -  1992"/>
+        <figcaption>Wolfenstein 3D - PC - 1992</figcaption>
     </div>
     <div>
         <img src="/images/underworld.png" alt="Ultima Underworld - PC - 1992"/>
         <figcaption>Ultima Underworld - PC - 1992</figcaption>
     </div>
     <div>
-        <img src="/images/wolfenstein3D.png" alt="Wolfenstein 3D - PC -  1992"/>
-        <figcaption>Wolfenstein 3D - PC - 1992</figcaption>
+        <img src="/images/starfox.png" alt="Star Fox - SNES - 1993"/>
+        <figcaption>Star Fox - SNES - 1993</figcaption>
     </div>
 </div>
 
-From there, graphics and especially 3D became the corner stone of game revolution, here are some games which were graphical references...
+In the early 1990's, graphics were the most used medium to promote games through new consoles, new processors, new video cards... The race began! 
+
+Fun fact, the CPU of the PS2 was even called [Emotion Engine](https://en.wikipedia.org/wiki/Emotion_Engine), it was as powerful as hard to exploit.
+
+I remember also games with amazing graphics, true system sellers but in the end mostly boring.
 <div class="gallery">
     <div>
         <img src="/images/megarace.png" alt="Megarace - PC -  1993"/>
@@ -65,14 +71,9 @@ From there, graphics and especially 3D became the corner stone of game revolutio
         <img src="/images/microcosm.png" alt="Microcosm - Amiga CD32 - 1994"/>
         <figcaption>Microcosm - Amiga CD32 - 1994</figcaption>
     </div>
-    <div>
-        <img src="/images/comanche.png" alt="Comanche - PC - 1992"/>
-        <figcaption>Comanche - PC - 1992</figcaption>
-    </div>
 </div>
-...but actually, from my point of view, not really fun to play. Graphics became a goal and no more a tool to enhance a good game. 
-<br/><br/>
-There were great (and many) exceptions:
+
+Heavy processing was not the only way to express emotions with graphics, do you remember some unforgettable magic tricks?
 <div class="gallery">
     <div>
         <img src="/images/jetsetradio.png" alt="Jet Set Radio - Cel shading"/>
@@ -81,14 +82,10 @@ There were great (and many) exceptions:
     <div>
         <img src="/images/ff7.png" alt="Final Fantasy 7 - Mixed RT/CGI"/>
         <figcaption>Final Fantasy 7 - Mixed RT/CGI</figcaption>
-    </div>
-    <div>
-        <img src="/images/fez.png" alt="Fez - 2D/3D "/>
-        <figcaption>Fez - 2D/3D</figcaption>
-    </div>
+    </div>    
 </div>
 
-Now, AAA games are just breathtaking, it's almost prefect at graphical level!
+And now, in 2020, AAA games are just breathtaking, it's almost prefect at graphical level!
 <div class="gallery">
     <div>
         <img src="/images/rdr2.png" alt="Red dead redemption 2 - PC - 2019"/>
@@ -98,18 +95,29 @@ Now, AAA games are just breathtaking, it's almost prefect at graphical level!
         <img src="/images/tlou2.png" alt="The last of us 2 - PS4 - 2020"/>
         <figcaption>The last of us 2 - PS4 - 2020</figcaption>
     </div>
-    <div>
-        <img src="/images/ff7remake.png" alt="Final Fantasy 7 Remake - PS4 - 2020"/>
-        <figcaption>Final Fantasy 7 Remake - PS4 - 2020</figcaption>
-    </div>
 </div>
-Games are more beautiful than ever, photo realistic rendering is near but manufacturers of video cards and consoles try to recreate a graphic revolution (VR, ray tracing...). The emotions I felt when I saw the first images of Ultima Underworld are from the past. On the other side, artificial intelligence and physics are far from what has been accomplished with graphics in games. 
-<br/><br/>
-Why my ennemies are still lemmings, why I can't destroy everything in the last open world and what is the next graphical revolution?
-<br/><br/>
-The only way to know, to understand and to find new ideas is to start from the beginning and look what happened behind the scene as a developer and not only as a gamer.
+Since the first graphical revolution of games with 3D, manufacturers (consoles & video cards) are constantly trying to recreate it. The last proposal is the ray tracing, which is cool but do we really need it at this cost. 
+ 
+We're talking about 4K, 8K, 60FPS, HDR... Once again, it's impressive but where are the emotions?
+ 
+Looking at indie scene, we find some gems, no 8K/60FPS but pure graphical emotions:
+<div class="gallery">
+    <div>
+        <img src="/images/fez.png" alt="Fez - 2012 "/>
+        <figcaption>Fez - 2012</figcaption>
+    </div>
+    <div>
+        <img src="/images/obradinn.png" alt="Return of the Obra Dinn - 2018"/>
+        <figcaption>Return of the Obra Dinn - 2018</figcaption>
+    </div>
+</div>    
+Now imagine, you want to create your own game. You know how to draw a pixel or a basic shape in a buffer but have not idea of how to build a 3D scene, create effects, evaluate the costs, the feasability, the portability...
+
+You want to do everything by your own, find innovative ideas, create emotions! Perhaps, tooling can help you, the last [Unity](https://unity.com/) or [Unreal](https://www.unrealengine.com/) engines will do the job but if you don't understand how it works under the hood, it will be a real pain in the ass. Just finding where to start will be true hell.
+
+That's what I discovered and why I decided to understand OpenGL before doing anything with it.
 
 ### Before OpenGL
-
+Coming soon...
 
 ## Epilogue
