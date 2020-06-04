@@ -118,6 +118,17 @@ You want to do everything by your own, find innovative ideas, create emotions! P
 That's what I discovered and why I decided to understand OpenGL before doing anything with it.
 
 ### Before OpenGL
-Coming soon...
+This article focuses on OpenGL and how GPU works. Even, if you're interested in [DirectX](https://en.wikipedia.org/wiki/DirectX) or [Vulkan](https://en.wikipedia.org/wiki/Vulkan_(API)), it's a good start from my point of view.
+
+I've mentioned games like [Another World](https://en.wikipedia.org/wiki/Another_World_(video_game)) or [Wolfenstein 3D](https://en.wikipedia.org/wiki/Wolfenstein_3D) and they are true corner stones of graphics development of games. They didn't benefit from OpenGL which came later and if you're interested by the stories and pioneers behind these games, I cannot recommend enough to go to [FABIEN SANGLARD'S WEBSITE](https://fabiensanglard.net/).
+
+### OpenGL 1
+Comming soon...
+
+### OK, let's do some maths!
+Comming soon...
+
+### OpenGL 2
+Comming soon...
 
 ## Epilogue
