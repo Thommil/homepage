@@ -57,7 +57,7 @@ In my souvenirs, there are images of games associated with true emotions. My fir
     </div>
 </div>
 
-In the early 1990's, graphics were the most used medium to promote games through new consoles, new processors, new video cards... The race began! 
+In the early 90s, graphics were the most used medium to promote games through new consoles, new processors, new video cards... The race began! 
 
 Fun fact, the CPU of the PS2 was even called [Emotion Engine](https://en.wikipedia.org/wiki/Emotion_Engine), it was as powerful as hard to exploit.
 
@@ -100,7 +100,7 @@ Since the first graphical revolution of games with 3D, manufacturers (consoles &
  
 We're talking about 4K, 8K, 60FPS, HDR... Once again, it's impressive but where are the emotions?
  
-Looking at indie scene, we find some gems, no 8K/60FPS but pure graphical emotions:
+Looking at indie scene, we find some gems, no 8K/60FPS but pure graphical experiences:
 <div class="gallery">
     <div>
         <img src="/images/fez.png" alt="Fez - 2012 "/>
