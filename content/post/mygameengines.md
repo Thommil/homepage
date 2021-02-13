@@ -58,7 +58,7 @@ For the record, independent developers became obsolete in the late 1990s with th
 
 From a personal point of view, therefore, I started my career as a developer when precisely this profession was no longer viable in video games, it was later, with the experience and the necessary time that I decided try to accomplish this old dream and throw myself into video games programming.
 
-With ideas in mind, I studied the different market engines, behemoths like [Unreal Engine](https://en.wikipedia.org/wiki/Unreal_Engine), [Unity](https: //en.wikipedia .org/wiki/Unity_% 29game_engine% 29) which are powerful but totally oversized for my needs. Simpler engines like [LibGDX](https://libgdx.com/), [ImpactJS](https://impactjs.com/) or [Torque3D](http://www.torque3d.org/), incredible tools but which systematically do not meet all my requirements.
+With ideas in mind, I studied the different market engines, behemoths like [Unreal Engine](https://en.wikipedia.org/wiki/Unreal_Engine), [Unity](https://en.wikipedia .org/wiki/Unity_% 29game_engine% 29) which are powerful but totally oversized for my needs. Simpler engines like [LibGDX](https://libgdx.com/), [ImpactJS](https://impactjs.com/) or [Torque3D](http://www.torque3d.org/), incredible tools but which systematically do not meet all my requirements.
 
 During my various tests, I also noticed my lack of knowledge in the field: OpenGL, entities, sound, physics... 
 
