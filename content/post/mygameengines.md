@@ -66,7 +66,7 @@ During my various tests, I also noticed my lack of knowledge in the field: OpenG
 
 As this post is not intended to tell the history of OpenGL, it is my personal experience, what I learned and understood.
 
-### OpenGL, from scratch 
+### OpenGL from scratch 
 In order to understand how 3D engines work, I decided to learn OpenGL. The idea being to port my games to mobile, it is therefore with OpenGL 1 that I have
 started my training (OpenGLES 2 support was limited then).
 
@@ -106,7 +106,7 @@ covering all lighting and shadow needs was way too big.
 
 I left this first attempt aside, happy to have learned and understood the basics but aware of **my mistake in wanting to start from scratch**.
 
-### Mixed approach, forking
+### Mixed approach: forking
 It was a few years later that the desire to get back to it came with the arrival of the [Pixel Art](https://en.wikipedia.org/wiki/Pixel_art) fashion and 2D games.
 
 This time, I put all my knowledge to work, leaving out that damn third dimension that ultimately makes things a little uglier (N64 games, really?).
@@ -115,7 +115,7 @@ Based on my first experience, I decided not to start from scratch but to use a p
 
 In the end, being a Java expert at the time and quite amazed by the performance of [LibGDX](https://libgdx.com/), I chose this engine. If I can give a good advice to developers who want to code their own game engine, it's to start from an existing one with an active community, check the quality of the code, fork and add its own features.
 
-So it's a fork of this engine that I used, integrating a library full of potential, [https://google.github.io/liquidfun](LiquidFun) (thanks to the work of [finnstr](https: //github.com/finnstr)), which allowed effects on liquids and soft bodies.
+So it's a fork of this engine that I used, integrating a library full of potential, [LiquidFun](https://google.github.io/liquidfun) (thanks to the work of [finnstr](https://github.com/finnstr)), which allowed effects on liquids and soft bodies.
 
 In the end, I did a complete engine refactoring by modifying several aspects and adding features. The video below shows the different possibilities offered by my new version:
 
@@ -126,7 +126,7 @@ In the end, I did a complete engine refactoring by modifying several aspects and
 
 ### My first "game"
 It was from this new base that I decided to create my first game: **Softbuddy**. The idea being to create a puzzle-oriented platform game based on a
-liquid character. The possibilities offered by [https://google.github.io/liquidfun/](LiquidFun) allowing me to have a character that can divide, change shape and substance, ideas were arriving in large numbers and it was with a superb intro that I started this AAA:
+liquid character. The possibilities offered by [LiquidFun](https://google.github.io/liquidfun) allowing me to have a character that can divide, change shape and substance, ideas were arriving in large numbers and it was with a superb intro that I started this AAA:
 
 <div class="youtube">
 {{< youtube N28yXlFhIeQ >}}
@@ -158,7 +158,7 @@ Sound effects and music. Adapted to my game with a pleasant rendering and withou
 
 **Obviously, the creative part of a video game might be more complex than I thought!**
 
-### Last try, the framework
+### Last try: a framework
 So, do we give up?
 
 Not really, while the idea of ​​making a game may have remained in the stage of teenage fantasies, my skills as a developer and the experience I gained over the years were not wasted time. On the contrary, it was following the discovery of [Golang](https://golang.org/) that I wanted to do a last
@@ -168,7 +168,7 @@ Based on my previous attempts, using existing libraries and frameworks to produc
 
 The reason is simple, to have fun with the language which offers a real breath of fresh air and to improve my knowledge with it. In addition, the engines available at the time in Go all had a critical issue (lack of portability, missing functionalities, overall quality...).
 
-So I decided to do a real painstaking job, start from an existing base with a good potential [G3N](https://github.com/g3n/engine), improve portability (Mobile and Web) and add features, try it below:
+So I decided to do a real painstaking job, start from an existing base with a good potential [G3N](https://github.com/g3n/engine), improve portability (Mobile and Web) and add features, try it below (Chrome & Firefox only):
 
 {{< iframe "https://tge-demo.thommil.com" >}}
 
