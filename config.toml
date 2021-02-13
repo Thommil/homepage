@@ -20,7 +20,7 @@ theme = "hugo-theme-nix"
   Name = "Thommil"
   HeaderUsername = "thommil"
   HeaderHostname = "thommil.com"
-  About = "Let's talk about abandoned projects and crappy memes..."
+  About = "Let's talk about abandoned projects, video agmes and crappy memes..."
   ProfilePicture = "/profile.png"
   Favicon = "/favicon.ico"
 
