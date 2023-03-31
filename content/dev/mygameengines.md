@@ -1,6 +1,6 @@
 +++
 title = "My game engines"
-description = ""
+description = "My love affair with the game engines. The story of all the gamers who have become developers, from fantasy to disillusion."
 tags = [
     "opengl",
     "android",
@@ -113,7 +113,7 @@ This time, I put all my knowledge to work, leaving out that damn third dimension
 
 Based on my first experience, I decided not to start from scratch but to use a proven 2D engine. First trial, choose it, there were many of them and the only way to make the right choice is to test them. Know if you are comfortable with the API, the programming paradigm, check performance, portability, functionalities. Once again, it's a long job, but also more fun.
 
-In the end, being a Java expert at the time and quite amazed by the performance of [LibGDX](https://libgdx.com/), I chose this engine. If I can give a good advice to developers who want to code their own game engine, it's to start from an existing one with an active community, check the quality of the code, fork and add its own features.
+In the end, being a Java expert at the time and quite amazed by the performance of [LibGDX](https://libgdx.com/), I chose this engine. If I can give a good advice to developers who want to code their own game engine, it's to start from an existing one with an active community, check the quality of the code, fork and add new features.
 
 So it's a fork of this engine that I used, integrating a library full of potential, [LiquidFun](https://google.github.io/liquidfun) (thanks to the work of [finnstr](https://github.com/finnstr)), which allowed effects on liquids and soft bodies.
 

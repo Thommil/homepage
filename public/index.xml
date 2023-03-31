@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thommil</title>
+    <link>https://thommil.com/</link>
+    <description>Recent content on Thommil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://thommil.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://thommil.com/about/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thommil.com/about/</guid>
+      <description>But Why? I&amp;rsquo;m a developer, I made this website for 2 reasons!
+1 - BEING FRIENDLY I share demos hosted on this website. Recruiters, partners, developers come here to see them and possibly check the root page. I didn&amp;rsquo;t want to display an error page so I put an amazing meme instead:
+Previous version of thommil.com Feedbacks were not as good as expected.
+2 - BEING CREDIBLE 1998, I created a copycat of Facebook which was developed in &amp;hellip; 2004, 2001, I developed my own AJAX framework, AJAX was introduced in &amp;hellip; 2005, 2006, I published a successful serverless commercial solution, 2008, I&amp;rsquo;ve offered the recipe of Pineapple Kebab to the world (forget this one).</description>
+    </item>
+    
+    <item>
+      <title>My game engines</title>
+      <link>https://thommil.com/post/mygameengines/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thommil.com/post/mygameengines/</guid>
+      <description>TL;DR My love affair with the game engines. The story of all the gamers who have become developers, from fantasy to disillusion.
+Full story One upon a time&amp;hellip; My childhood was marked by several of the big names of video games:
+Wolfenstein 3D - John Carmack - 1992 Ultima 7 - Richard Garriott - 1992 Another World - Eric Chahi - 1991 If you want to know a little more about their work, go to Fabien Sanglard&amp;rsquo;s website.</description>
+    </item>
+    
+  </channel>
+</rss>

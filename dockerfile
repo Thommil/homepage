@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-ENV HUGO_VERSION=0.63.0
+ENV HUGO_VERSION=0.111.3
 
 RUN apk add --no-cache --update wget \
  && wget --no-check-certificate https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz \
