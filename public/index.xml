@@ -6,25 +6,33 @@
     <description>Recent content on Thommil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://thommil.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://thommil.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About me</title>
+      <title>Coming soon...</title>
+      <link>https://thommil.com/retrogaming/placeholder/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://thommil.com/retrogaming/placeholder/</guid>
+      <description>Coming soon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Why this website?</title>
       <link>https://thommil.com/about/</link>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://thommil.com/about/</guid>
-      <description>But Why? I&amp;rsquo;m a developer, I made this website for 2 reasons!
-1 - BEING FRIENDLY I share demos hosted on this website. Recruiters, partners, developers come here to see them and possibly check the root page. I didn&amp;rsquo;t want to display an error page so I put an amazing meme instead:
-Previous version of thommil.com Feedbacks were not as good as expected.
-2 - BEING CREDIBLE 1998, I created a copycat of Facebook which was developed in &amp;hellip; 2004, 2001, I developed my own AJAX framework, AJAX was introduced in &amp;hellip; 2005, 2006, I published a successful serverless commercial solution, 2008, I&amp;rsquo;ve offered the recipe of Pineapple Kebab to the world (forget this one).</description>
+      <description>1 - BEING VISIBLE Through this website and all contents relative to what I do and who I am, this place is the best resume I can provide (the summary is available on homepage).
+2 - BEING FRIENDLY I share demos hosted here for recruiters, partners, developers. I didn&amp;rsquo;t want to display a 404 homepage, so previously I put an amazing meme instead:
+Previous version of thommil.com I found it very funny but feedbacks were not as good as expected!</description>
     </item>
     
     <item>
       <title>My game engines</title>
-      <link>https://thommil.com/post/mygameengines/</link>
+      <link>https://thommil.com/dev/mygameengines/</link>
       <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://thommil.com/post/mygameengines/</guid>
+      <guid>https://thommil.com/dev/mygameengines/</guid>
       <description>TL;DR My love affair with the game engines. The story of all the gamers who have become developers, from fantasy to disillusion.
 Full story One upon a time&amp;hellip; My childhood was marked by several of the big names of video games:
 Wolfenstein 3D - John Carmack - 1992 Ultima 7 - Richard Garriott - 1992 Another World - Eric Chahi - 1991 If you want to know a little more about their work, go to Fabien Sanglard&amp;rsquo;s website.</description>

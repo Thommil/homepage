@@ -2,13 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://thommil.com/categories/</loc>
+    <lastmod>2023-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thommil.com/retrogaming/placeholder/</loc>
+    <lastmod>2023-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thommil.com/tags/game/</loc>
+    <lastmod>2023-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thommil.com/categories/game/</loc>
+    <lastmod>2023-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thommil.com/tags/handheld/</loc>
+    <lastmod>2023-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thommil.com/tags/retrogaming/</loc>
+    <lastmod>2023-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thommil.com/categories/retrogaming/</loc>
+    <lastmod>2023-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thommil.com/retrogaming/</loc>
+    <lastmod>2023-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thommil.com/tags/</loc>
+    <lastmod>2023-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thommil.com/</loc>
+    <lastmod>2023-03-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://thommil.com/about/</loc>
     <lastmod>2020-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thommil.com/tags/android/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thommil.com/categories/</loc>
+    <loc>https://thommil.com/dev/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thommil.com/tags/development/</loc>
@@ -17,25 +47,10 @@
     <loc>https://thommil.com/categories/development/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thommil.com/tags/game/</loc>
-    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thommil.com/categories/game/</loc>
-    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thommil.com/post/mygameengines/</loc>
+    <loc>https://thommil.com/dev/mygameengines/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thommil.com/tags/opengl/</loc>
-    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thommil.com/post/</loc>
-    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thommil.com/tags/</loc>
-    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thommil.com/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url>
 </urlset>

@@ -14,10 +14,10 @@ pluralizeListTitles = false
     name = "retrogaming"
     weight = 2
     url = "retrogaming"
-  [[menu.header]]
-    name = "about"
-    weight = 3
-    url = "about"
+#  [[menu.header]]
+#    name = "about"
+#    weight = 3
+#    url = "about"
 
 [params]
   GithubID = "thommil"

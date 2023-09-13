@@ -187,13 +187,19 @@ td {
 	margin: 10px;
 }
 
-.blink div{
+.blink *{
 	animation: blinker 1s linear infinite;
 	color:#F00;
 	font-size:26px;
 	margin: 10px auto;
 	text-align: center;
 	font-weight: bold;
+}
+
+@media screen and (max-width: 980px) { 
+	.blink *{
+		display: block;
+	}
 }
 
 @keyframes blinker {

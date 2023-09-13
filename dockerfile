@@ -1,6 +1,9 @@
 FROM alpine:latest
 
-ENV HUGO_VERSION=0.111.3
+ENV HUGO_VERSION=0.118.2
+
+#ENV http_proxy=172.17.0.1:3128
+#ENV https_proxy=172.17.0.1:3128
 
 RUN apk add --no-cache --update wget \
  && wget --no-check-certificate https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz \
@@ -11,8 +14,8 @@ RUN apk add --no-cache --update wget \
 
 RUN adduser hugo -H -D -s /bin/false
 
-VOLUME /data
 WORKDIR /data
+ADD static/ .
 
 EXPOSE 1313
 
